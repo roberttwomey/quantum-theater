@@ -17,4 +17,4 @@ Quantum Theater takes quantum science as subject and method for immersive theate
 # References
 Read more about the project here. [link TK]
 
-_This project is made possible through support from the Grand Challenge Grant Quantum Approaches to Global Threats (PIs Binke and Hermiller), University of Nebraska-Lincoln_
+_This project is made possible through support from the Grand Challenge Grant Quantum Approaches to Global Threats (PIs Binek and Hermiller), University of Nebraska-Lincoln_
