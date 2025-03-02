@@ -1,5 +1,5 @@
 # Description
-Quantum Theater takes quantum science as subject and method for immersive theater. Phenomena like entanglement, superposition, coherence, and collapse shape the performance in a post-AI exploration of liveness, variability, and improv. Multiple realities are layered on stage, where the audience as observer-participant plays an active role in cohering singular narratives. 
+Quantum Theater takes quantum science as subject and method for immersive theater. Phenomena like superposition, entanglement, coherence, and collapse shape the performance in a post-AI exploration of liveness, variability, and improv. Multiple realities are layered on stage, where the audience as observer-participant plays an active role in cohering singular narratives. 
 
 # Details
 [TK]
@@ -17,4 +17,4 @@ Quantum Theater takes quantum science as subject and method for immersive theate
 # References
 Read more about the project here. [link TK]
 
-_This project is made possible through support from the Grand Challenge Grant Quantum Approaches to Global Threats (PIs Binek and Hermiller), University of Nebraska-Lincoln_
+_This project is made possible through support from the Grand Challenge Grant Quantum Approaches Addressing Global Threats (PIs Binek and Hermiller), University of Nebraska-Lincoln_
