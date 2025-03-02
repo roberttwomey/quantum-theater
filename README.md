@@ -1,5 +1,5 @@
 # Description
-[TK]
+Quantum Theater takes quantum science as subject and method for immersive theater. Phenomena like entanglement, superposition, coherence, and collapse shape the performance in a post-AI exploration of liveness, variability, and improv. Multiple realities are layered on stage, where the audience as observer-participant plays an active role in cohering singular narratives. 
 
 # Details
 [TK]
