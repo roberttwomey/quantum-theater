@@ -8,7 +8,7 @@ Quantum Theater takes quantum science as subject and method for immersive theate
 ### Leads
 **Ash Smith** - Speculative Devices Lab, Johnny Carson for Emerging Media Arts, UNL - [asheveryday.com](https://asheveryday.com/)<br>
 
-**Robert Twomey** - Machine Cohabitation Lab ([cohab-lab.net](https://cohab-lab.net)) and UCSD Visual Arts - [roberttwomey.com](https://roberttwomey.com)<br>
+**Robert Twomey** - Machine Cohabitation Lab ([cohab-lab.net](https://cohab-lab.net)), UCSD Department of Visual Arts and Arthur C. Clarke Center for Human Imagination  - [roberttwomey.com](https://roberttwomey.com)<br>
 
 **Reid Brockmeier**
 
