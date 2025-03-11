@@ -5,7 +5,9 @@ Quantum Theater takes quantum science as subject and method for immersive theate
 
 # Details
 
-<img src="images\floorplan.jpg">
+<div style="height: 200px; overflow: hidden;">
+  <img src="images/floorplan.jpg" style="width: 100%; object-fit: cover;">
+</div>
 
 Coming in My 2025.
 
