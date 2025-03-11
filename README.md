@@ -1,10 +1,13 @@
-# Description
-Quantum Theater takes quantum science as subject and method for immersive theater. Phenomena like superposition, entanglement, coherence, and collapse shape the performance in a post-AI exploration of liveness, variability, and improv. Multiple realities are layered on stage, where the audience as observer-participant plays an active role in cohering singular narratives. 
+<img src="images\qt-title.jpg">
 
-[Need a hero image here]
+# Overview
+Quantum Theater takes quantum science as subject and method for immersive theater. Phenomena like entanglement, superposition, coherence, and collapse shape the performance in a post-AI exploration of liveness, variability, and improv. Multiple realities are layered on stage, where the audience as observer-participant plays an active role in cohering singular narratives. 
 
 # Details
-[TK]
+
+<img src="images\floorplan.jpg">
+
+Coming in My 2025.
 
 # Team
 **Ash Smith** - Speculative Devices Lab, Johnny Carson for Emerging Media Arts, University of Nebraska-Lincoln - [asheveryday.com](https://asheveryday.com/)<br>
@@ -16,6 +19,5 @@ Quantum Theater takes quantum science as subject and method for immersive theate
 **Samantha Bendix** - Artist, Designer, and Developer for Immersive Media, Speculative Devices Lab and Edgeworks, University of Nebraska-Lincoln.<br>
 
 # References
-Read more about the project here. [link TK]
 
 _This project is made possible through support from the Grand Challenge Grant Quantum Approaches Addressing Global Threats (PIs Binek and Hermiller), University of Nebraska-Lincoln_
