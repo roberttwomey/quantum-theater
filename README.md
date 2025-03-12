@@ -1,5 +1,5 @@
-<div style="height: 200px; overflow: hidden;">
-  <img src="images/qt-title.jpg" style="width: 100%; object-fit: cover;">
+<div style="height: 200px; overflow: hidden; display: flex; align-items: center; justify-content: center;">
+  <img src="images/qt-title.jpg" style="width: 100%; object-fit: cover; object-position: center;">
 </div>
 
 # Overview
