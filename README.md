@@ -1,13 +1,13 @@
-<img src="images\qt-title.jpg">
+<div style="height: 200px; overflow: hidden;">
+  <img src="images/qt-title.jpg" style="width: 100%; object-fit: cover;">
+</div>
 
 # Overview
 Quantum Theater takes quantum science as subject and method for immersive theater. Phenomena like entanglement, superposition, coherence, and collapse shape the performance in a post-AI exploration of liveness, variability, and improv. Multiple realities are layered on stage, where the audience as observer-participant plays an active role in cohering singular narratives. 
 
 # Details
 
-<div style="height: 200px; overflow: hidden;">
-  <img src="images/floorplan.jpg" style="width: 100%; object-fit: cover;">
-</div>
+  <img src="images/floorplan.jpg">
 
 Coming in My 2025.
 
