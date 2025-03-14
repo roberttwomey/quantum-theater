@@ -7,9 +7,11 @@ Quantum Theater takes quantum science as subject and method for immersive theate
 
 # Details
 
-  <img src="images/floorplan.jpg">
+Coming in May 2025.
 
-Coming in My 2025.
+## Staging
+
+  <img src="images/floorplan.jpg">
 
 # Team
 **Ash Smith** - Speculative Devices Lab, Johnny Carson for Emerging Media Arts, University of Nebraska-Lincoln - [asheveryday.com](https://asheveryday.com/)<br>
