@@ -9,7 +9,7 @@ Quantum Theater takes quantum science as subject and method for immersive theate
 
 Coming in May 2025.
 
-<div style="height: 300px; overflow: hidden; display: flex; align-items: center; justify-content: center;">
+<div style="height: 450px; overflow: hidden; display: flex; align-items: center; justify-content: center;">
   <iframe 
     src="https://www.youtube.com/embed/ye4SeRKsn8M?si=Eahw-UmiP1hMM1VD" 
     title="YouTube video player" 
