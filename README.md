@@ -21,6 +21,8 @@ Coming in May 2025.
   </iframe>
 </div>
 
+<br>
+
 ## Staging
 
   <img src="images/floorplan.jpg">
