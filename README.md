@@ -27,6 +27,9 @@ Coming in May 2025.
 
   <img src="images/floorplan.jpg">
 
+<img src="images/kit-of-parts.png">
+
+_Images by Sam Bendix._
 # Team
 **Ash Smith** - Speculative Devices Lab, Johnny Carson for Emerging Media Arts, University of Nebraska-Lincoln - [asheveryday.com](https://asheveryday.com/)<br>
 
